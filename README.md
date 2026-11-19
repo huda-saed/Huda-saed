@@ -3,91 +3,126 @@
 
 # Huda Saed Osman 👋
 
-**ICT Student | Django Developer | Aspiring Software Engineer**
+### ICT Student | Django Developer | Aspiring Software Engineer
 
-I love coding, building projects, and turning ideas into practical solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Python+%7C+C%23+%7C+C%2B%2B+Developer;Django+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+Projects+and+Learning+Every+Day" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Huda--saed-black?style=flat&logo=github)](https://github.com/Huda-saed)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mssdahabozaeth@gmail.com)
+**Clean code. Practical solutions. Always learning.**
+
+I enjoy coding, building projects, and turning ideas into practical digital solutions.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Huda--saed-black?style=for-the-badge&logo=github)](https://github.com/Huda-saed)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mssdahabozaeth@gmail.com)
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 ICT Student
 - 💻 Interested in Software Engineering
 - 🌐 Passionate about Web Development
 - 🚀 Building practical projects
-- 💡 Always improving my programming skills
+- 💡 Interested in technology and problem-solving
+- 🤝 Open to collaboration and learning opportunities
 
-### 🛠️ Skills & Technologies
+---
 
-**Programming Languages**
+## 🛠️ Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+### 💻 Programming Languages
 
-**Web Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/Django-green?logo=django&logoColor=white)
+### 🌐 Web Development
 
-**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,django" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-lightblue?logo=sqlite&logoColor=white)
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
 - Microsoft SQL Server
 
-**Tools & Concepts**
+### ⚙️ Tools
 
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
-- Visual Studio
+### 📚 Concepts
+
 - Object-Oriented Programming (OOP)
 - Database Management
+- Programming Fundamentals
 - Problem Solving
 
 ---
 
-### 🚀 Featured Project
+## 🚀 Featured Project
 
-**🏥 NasiyeClinic – Clinic Management System**
+### 🏥 NasiyeClinic – Clinic Management System
 
-A Django-based system for managing doctors, patients, and appointments.
+A Django-based clinic management system designed to manage doctors, patients, and appointments in one place.
 
-**Technologies:** Python · Django · SQLite · HTML · CSS · Bootstrap
+**Technologies:** Python · Django · SQLite · HTML · CSS · Bootstrap 5
 
-[🔗 View Project on GitHub](https://github.com/Huda-saed/nasiyeclinic-django-project11)
+**Main Features:**
+
+- 👨‍⚕️ Doctor Management
+- 🧑‍🤝‍🧑 Patient Management
+- 📅 Appointment Management
+- 📊 Dashboard
+- 🔐 User Authentication
+- 🛠️ Admin Panel
+
+🔗 **[View Project on GitHub](https://github.com/Huda-saed/nasiyeclinic-django-project11)**
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huda-saed&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Huda-saed&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huda-saed&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huda-saed&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 ---
 
-### 🎯 My Goals
+## 🎯 My Goals
 
-- Become a Professional Software Engineer
-- Build useful applications
-- Improve my programming skills
-- Contribute to open-source projects
+- 🎯 Become a Professional Software Engineer
+- 🛠️ Build useful real-world applications
+- 📈 Improve my programming skills
+- 🌍 Contribute to open-source projects
+- 💡 Create practical solutions through technology
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+📧 **Email**
+
+[mssdahabozaeth@gmail.com](mailto:mssdahabozaeth@gmail.com)
+
+🐙 **GitHub**
+
+[@Huda-saed](https://github.com/Huda-saed)
+
+</div>
 
 ---
 
@@ -95,6 +130,6 @@ A Django-based system for managing doctors, patients, and appointments.
 
 **"Learning never stops. Keep building, keep growing."**
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile!
 
 </div>
