@@ -3,16 +3,15 @@
 
 # Huda Saed Osman 👋
 
-### ICT Student | Django Developer | Aspiring Software Engineer
+### ICT Student | Django Developer | Programming Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Python+%7C+C%23+%7C+C%2B%2B+Developer;Django+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+Projects+and+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Welcome+to+My+GitHub+Profile!;Python+%7C+C%23+%7C+C%2B%2B;Django+%7C+HTML+%7C+CSS+%7C+JavaScript;Learning+and+Building+Projects" />
 
-**Clean code. Practical solutions. Always learning.**
+**Technology · Creativity · Continuous Learning**
 
-I enjoy coding, building projects, and turning ideas into practical digital solutions.
+I am an ICT student interested in programming, web development, and database management. I enjoy learning new technologies and building practical projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Huda--saed-black?style=for-the-badge&logo=github)](https://github.com/Huda-saed)
-
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mssdahabozaeth@gmail.com)
 
 </div>
@@ -22,11 +21,11 @@ I enjoy coding, building projects, and turning ideas into practical digital solu
 ## 👩‍💻 About Me
 
 - 🎓 ICT Student
-- 💻 Interested in Software Engineering
-- 🌐 Passionate about Web Development
-- 🚀 Building practical projects
-- 💡 Interested in technology and problem-solving
-- 🤝 Open to collaboration and learning opportunities
+- 💻 Interested in Programming and Web Development
+- 🌐 Learning and building web applications
+- 🗄️ Interested in Database Management
+- 🚀 Working on practical projects
+- 💡 Passionate about technology and problem-solving
 
 ---
 
@@ -71,11 +70,11 @@ I enjoy coding, building projects, and turning ideas into practical digital solu
 
 ### 🏥 NasiyeClinic – Clinic Management System
 
-A Django-based clinic management system designed to manage doctors, patients, and appointments in one place.
+A clinic management system developed using Django to manage doctors, patients, and appointments.
 
 **Technologies:** Python · Django · SQLite · HTML · CSS · Bootstrap 5
 
-**Main Features:**
+**Features:**
 
 - 👨‍⚕️ Doctor Management
 - 🧑‍🤝‍🧑 Patient Management
@@ -84,7 +83,7 @@ A Django-based clinic management system designed to manage doctors, patients, an
 - 🔐 User Authentication
 - 🛠️ Admin Panel
 
-🔗 **[View Project on GitHub](https://github.com/Huda-saed/nasiyeclinic-django-project11)**
+🔗 [View Project on GitHub](https://github.com/Huda-saed/nasiyeclinic-django-project11)
 
 ---
 
@@ -102,11 +101,12 @@ A Django-based clinic management system designed to manage doctors, patients, an
 
 ## 🎯 My Goals
 
-- 🎯 Become a Professional Software Engineer
-- 🛠️ Build useful real-world applications
-- 📈 Improve my programming skills
-- 🌍 Contribute to open-source projects
-- 💡 Create practical solutions through technology
+- 🎯 Improve my ICT and programming knowledge
+- 💻 Build useful applications
+- 🌐 Develop my web development skills
+- 🗄️ Improve my database skills
+- 📚 Learn more about technology
+- 🌍 Participate in technology projects
 
 ---
 
